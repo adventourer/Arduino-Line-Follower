@@ -1,5 +1,7 @@
 # Arduino-Line-Follower
 
+NOT WORKING ON THIS ANYMORE. REFER TO ARDUINO ROBOT
+
 Arduino based line follower robot
 
 This is my first arduino based line follower. I'm using this to learn how the motor works, the IR works and overall system works. I've made several tests to allow step by step understanding on how this works. By breaking down into small pieces, I hope this can be understood by someone who is really new to Arduino.
