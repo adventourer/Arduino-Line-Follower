@@ -4,6 +4,8 @@ Arduino based line follower robot
 
 This is my first arduino based line follower. I'm using this to learn how the motor works, the IR works and overall system works. I've made several tests to allow step by step understanding on how this works. By breaking down into small pieces, I hope this can be understood by someone who is really new to Arduino.
 
+I'm trying to avoid using library in the code to make it as simple as possible. And the fact that I don't understand them as well.
+
 Parts list:
 1. Arduino UNO R3
 2. L298N motor driver
